@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesLib", "ShapesLib\ShapesLib.csproj", "{044C4D5C-82DB-4526-A4B2-EC8868A88B88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesApp", "ShapesApp\ShapesApp.csproj", "{04F73A94-0468-412A-88F3-AECE6A4A115E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{044C4D5C-82DB-4526-A4B2-EC8868A88B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044C4D5C-82DB-4526-A4B2-EC8868A88B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044C4D5C-82DB-4526-A4B2-EC8868A88B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044C4D5C-82DB-4526-A4B2-EC8868A88B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04F73A94-0468-412A-88F3-AECE6A4A115E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F73A94-0468-412A-88F3-AECE6A4A115E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F73A94-0468-412A-88F3-AECE6A4A115E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F73A94-0468-412A-88F3-AECE6A4A115E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
